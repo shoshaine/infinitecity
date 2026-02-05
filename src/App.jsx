@@ -63,11 +63,11 @@ function App() {
         <div className="mt-6 flex gap-4">
           <div className="bg-white/5 backdrop-blur-md px-4 py-2 rounded-full border border-white/10">
             <p className="text-white/60 text-[10px] uppercase font-bold">Holders</p>
-            <p className="text-white font-mono text-sm">1,242</p>
+            <p className="text-white font-mono text-sm">42</p>
           </div>
           <div className="bg-white/5 backdrop-blur-md px-4 py-2 rounded-full border border-white/10">
             <p className="text-white/60 text-[10px] uppercase font-bold">24h Vol</p>
-            <p className="text-white font-mono text-sm">$42.5k</p>
+            <p className="text-white font-mono text-sm">$12.5k</p>
           </div>
         </div>
       </div>
@@ -134,4 +134,5 @@ function App() {
 }
 
 export default App
+
 
